@@ -4,4 +4,7 @@ branch dev modify
 
 branch master modify
 
+conflict master
+
+conflict dev
 
