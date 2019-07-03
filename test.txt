@@ -3,3 +3,5 @@ hello world£¬dengjie
 branch dev modify
 
 conflict master
+
+conflict dev
