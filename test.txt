@@ -2,4 +2,7 @@ hello world£¬dengjie
 
 branch dev modify
 
-conflict master
+branch master modify
+
+confilict 1
+
